@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">应用提醒</string>
+    <string name="system_app">系统应用</string>
+    <string name="user_app">用户应用</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="permission">该应用需要“显示在其他应用上层权限”和“使用情况访问权限”</string>
+</resources>
